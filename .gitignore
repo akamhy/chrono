@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+chrono
 
 # Test binary, built with `go test -c`
 *.test
